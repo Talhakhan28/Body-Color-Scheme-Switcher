@@ -1,0 +1,1 @@
+Color Scheme Switcher-----> This is just an simple project for beginners, this project is created using Html,Css,Js![image](https://github.com/user-attachments/assets/b6d10b5b-45ce-4f49-940f-18b4467a53b7)
